@@ -1,0 +1,14 @@
+.container img {
+	max-width:100%;
+	max-height:100%;
+}
+
+.container img.attribute {
+	max-width:80%;
+	max-height:80%;
+}
+
+a {
+	text-decoration: none;
+	color: #222;
+}
